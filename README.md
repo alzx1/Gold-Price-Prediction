@@ -2,6 +2,12 @@
 
 This repository contains a Jupyter Notebook for a gold price prediction project. The notebook explores historical gold price data and implements machine learning models to predict future gold prices.
 
+
+### Gold Price Prediction ⚡️
+
+![Gold Price Prediction](https://github.com/alzx1/Gold-Price-Prediction/blob/main/image.png)
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
